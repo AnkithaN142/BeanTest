@@ -1,0 +1,2 @@
+# BeanTest
+Testing bean
